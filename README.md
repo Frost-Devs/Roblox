@@ -1,2 +1,2 @@
 # Roblox
-Roblox Code for A GAme called 'Simple Swords'
+Roblox Code for A Game called 'Simple Swords'
